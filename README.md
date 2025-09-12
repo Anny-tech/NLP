@@ -1,1 +1,1 @@
-# Natural Language Processing project for a Materials Science corpus
+# Natural Language Processing for a Materials Science corpus
